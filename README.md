@@ -1,8 +1,8 @@
+# Webroot.com/secure - Enter KeyCode To Activate : Webroot.com/safe
 Did you purchase Webroot for your device’s security? Just buying Webroot is not enough. You need to **[webroot.com/safe](https://webrootsecure.github.io/)** to become fully functional on your device. Now you may have several questions in your mind, what is a keycode? Where to find it? Where to enter it? The solution to these questions is given here.
 **First of all, what is Webroot?**
 
-## Webroot.com/secure - Enter KeyCode To Activate : Webroot.com/safe
-
+## Webroot Safe Antivirus
 Webroot is one of the most trusted antivirus brands in the USA. Its virus protection has won many awards. Webroot uses cloud-based technology to block Viruses and various Malware. The most fascinating feature of webroot.com secure antivirus is, it can scan your device 60 times faster than another popular antivirus. This helps to save your precious time. It is also available for Android and iOS devices. Now we will see how to install and run this software on your PC.
 
 ## How to purchase Webroot Antivirus
